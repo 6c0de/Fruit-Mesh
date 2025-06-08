@@ -13,6 +13,7 @@ TagManager:
   - RestartButton
   - MainMenuButton
   - NextLevelButton
+  - PlayerFeet
   layers:
   - Default
   - TransparentFX
@@ -24,9 +25,9 @@ TagManager:
   - Wall
   - Enemy
   - Enemy1
-  - 
-  - 
-  - 
+  - Platform
+  - Saw
+  - Player
   - 
   - 
   - 
